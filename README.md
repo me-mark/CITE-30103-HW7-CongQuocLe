@@ -20,5 +20,5 @@ gcc question?.c -o o/question?
 
 #4
 Run:
-o/question
+o/question?
 (replace ? with the number of question)
